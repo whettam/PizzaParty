@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Small" type="string">Small</item>
+    <item name="Medium" type="string">Medium</item>
+    <item name="Large" type="string">Large</item>
+</resources>
